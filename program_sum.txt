@@ -4,7 +4,7 @@ int main() {
     printf("Enter two numbers: ");
     scanf("%lf %lf", &a, &b);  
  
-    // Calculating product
+    // Calculating sum of two numbers
     sum = a + b;
 
     // %.2lf displays number up to 2 decimal point
